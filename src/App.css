@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "San Seri", sans-serif;
+  /* --font-display: "Monsieur La Doulaise", cursive; */
+}
